@@ -1,6 +1,6 @@
 using System;
 
-namespace Aula02.Models
+namespace Aula02.Models.ViewsModels
 {
     public class ErrorViewModel
     {
