@@ -17,7 +17,7 @@ namespace Aula02.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page.";
+            ViewData["Message"] = "Cadastrar e consultar CEP/ Eliandro Silva.";
 
             return View();
         }
